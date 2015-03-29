@@ -1,4 +1,6 @@
 .gradle
+/ViewPagerIndicator
+/SwipeBackLayout
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
